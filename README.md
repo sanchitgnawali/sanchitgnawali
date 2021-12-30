@@ -1,12 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=HI+👋+This+is+Sanchit+Gnawali+👨🏻‍💻;Welcome+🙏+to+my+Github+profile+👌)
 
+### About me 🙎🏻‍♂️ 
 
 ✨ **Sanchit Gnawali** ✨ is a *superfast learner*. He can learn anything in no time 😂 
-Find 🔎 me here in [![Linkedin Badge](https://img.shields.io/badge/-Sanchit%20Gnawali-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-gnawali-016323136/)
-
+<br/>🔎 Find me here => [![Linkedin Badge](https://img.shields.io/badge/-Sanchit%20Gnawali-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-gnawali-016323136/)
 <br/>
-
-### About me 🙎🏻‍♂️ 
+<br/>
 - 🔭 Currently working on a Springboot and a react project
 - 🌱 I’m currently learning tailwind css, GraphQL, language parsing, networking, linux operating systems
 - 👯 I’m looking to collaborate on any related topics that i'm currently learning
@@ -37,3 +36,7 @@ Find 🔎 me here in [![Linkedin Badge](https://img.shields.io/badge/-Sanchit%20
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+
+### Stats 📊
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitgnawali&layout=compact&text_color=0&bg_color=ffffff)
+
