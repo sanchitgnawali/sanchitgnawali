@@ -9,7 +9,7 @@
 - 🔭 Currently working on a Springboot and a react project
 - 🌱 I’m currently learning tailwind css, GraphQL, language parsing, networking, linux operating systems
 - 👯 I’m looking to collaborate on any related topics that i'm currently learning
-- 💬 Ask me Data structures and Algorighms
+- 💬 Ask me about Data structures and Algorighms
 - 🥅 2021 Goals: Learn more algorithms and contribute to open source
 
 <br/>
