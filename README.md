@@ -1,8 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=HI+👋+This+is+Sanchit+Gnawali+👨🏻‍💻;Welcome+🙏+to+my+Github+profile+👌)
 
 
-✨ sanchit gnawali ✨ is a superfast learner. He can learn anything in no time 😂
+✨ **Sanchit Gnawali** ✨ is a *superfast learner*. He can learn anything in no time 😂 
+Find 🔎 me here in [![Linkedin Badge](https://img.shields.io/badge/-Sanchit%20Gnawali-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-gnawali-016323136/)
 
+<br/>
+
+### About me 🙎🏻‍♂️ 
 - 🔭 Currently working on a Springboot and a react project
 - 🌱 I’m currently learning tailwind css, GraphQL, language parsing, networking, linux operating systems
 - 👯 I’m looking to collaborate on any related topics that i'm currently learning
@@ -11,7 +15,7 @@
 
 <br/>
 
-### Languages and Tools 🛠 
+### Languages and Tools 🧰 
 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -28,8 +32,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Terminal-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![Linux](http://img.shields.io/badge/-Linux-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
