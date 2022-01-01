@@ -6,9 +6,9 @@
 <br/>🔎 Find me here => [![Linkedin Badge](https://img.shields.io/badge/-Sanchit%20Gnawali-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-gnawali-016323136/)
 <br/>
 <br/>
-- 🔭 Currently working on a Springboot and a react project
+- 🔭 Currently working on a Springboot and a React project
 - 🌱 I’m currently learning tailwind css, GraphQL, language parsing, networking, and linux 
-- 👯 I’m looking to collaborate on any related topics that i'm currently learning
+- 👯 I’m looking to collaborate on any related topic that i'm currently learning
 - 💬 Ask me about Data structures and Algorighms
 - 🥅 2021 Goals: Learn more algorithms and contribute to open source
 
