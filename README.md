@@ -7,7 +7,7 @@
 <br/>
 <br/>
 - 🔭 Currently working on a Springboot and a React project
-- 🌱 I’m currently learning tailwind css, GraphQL, language parsing, networking, and linux 
+- 🌱 I’m currently learning React Native, Network Forensics and Operating Systems
 - 👯 I’m looking to collaborate on any related topic that i'm currently learning
 - 💬 Ask me about Data structures and Algorighms
 - 🥅 2021 Goals: Learn more algorithms and contribute to open source
