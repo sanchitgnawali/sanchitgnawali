@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning React Native, Network Forensics and Operating Systems
 - 👯 I’m looking to collaborate on any related topic that i'm currently learning
 - 💬 Ask me about Data structures and Algorighms
-- 🥅 2021 Goals: Learn more algorithms and contribute to open source
+- 🥅 2022 Goals: Learn more algorithms and contribute to open source
 
 <br/>
 
