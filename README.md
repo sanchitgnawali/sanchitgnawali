@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning C# and Algorithms
 - 👯 I’m looking to collaborate on any related topic that i'm currently learning
 - 💬 Ask me about Data structures and Algorighms, System Design, and Databases
-- 🥅 2022 Goals: Learn more algorithms and contribute to open source
 
 <br/>
 
