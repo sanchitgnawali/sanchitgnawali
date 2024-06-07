@@ -3,7 +3,6 @@
 ### About me 🙎🏻‍♂️ 
 
 ✨ **Sanchit Gnawali** ✨ is a *superfast learner*. He can learn anything in no time 😂 
-<br/>🔎 Find me here => [![Linkedin Badge](https://img.shields.io/badge/-Sanchit%20Gnawali-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-gnawali-016323136/)
 <br/>
 <br/>
 - 🔭 Currently working on a Springboot and a React project
